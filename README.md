@@ -29,7 +29,7 @@ cd to client directory then run:
 <br>
 docker build . -t movies 
 <br>
-
+<br>
 cd to server directory then run: 
 <br>
 docker build . -t moviesbackend
