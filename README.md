@@ -1,6 +1,7 @@
 # movies-listapp
 https://img.shields.io/apm/l/movies-listapp
-
+https://img.shields.io/github/downloads/donaldvallejo/movies-listapp/total
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/donaldvallejo/movies-listapp/total">
 
 This MERN stack application is used as a todo list for movies.
 
