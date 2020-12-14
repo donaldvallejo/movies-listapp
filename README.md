@@ -20,15 +20,23 @@ cd to client directory then run:
 yarn start
 <br>
 Then check localhost:3000
+<br>
 
-
+<br>
 To run build:
+<br>
 cd to client directory then run: 
+<br>
 docker build . -t movies 
+<br>
 
 cd to server directory then run: 
+<br>
 docker build . -t moviesbackend
+<br>
+<br>
 
 
 To run docker compose:
+<br>
 from the parent folder run: docker-compose up
