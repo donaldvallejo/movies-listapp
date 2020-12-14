@@ -10,11 +10,15 @@ This MERN stack application is used as a todo list for movies.
 
 
 To run this file locally without docker:
+<br>
 cd to server directory then run: 
+<br>
 npm start
 
-cd to client directory then run: 
+cd to client directory then run:
+<br>
 yarn start
+<br>
 Then check localhost:3000
 
 
