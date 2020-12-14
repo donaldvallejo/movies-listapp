@@ -39,4 +39,6 @@ docker build . -t moviesbackend
 
 To run docker compose:
 <br>
-from the parent folder run: docker-compose up
+from the parent folder run:
+<br>
+docker-compose up
