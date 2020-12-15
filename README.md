@@ -49,8 +49,8 @@ Where im stuck:
 <br>
 i have both front and backend apps seaparated in caprovers deployment
 <br>
-<img src="" alt="Caprover Apps" width="500" height="600">
+<img src="readmeImages/caprover.png" alt="Caprover Apps" width="500" height="600">
 <br>
 <br>
 The dns is waiting for my deployment
-<img src="" alt="Caprover Apps" width="500" height="600">
+<img src="readmeImages/deployed.png" alt="Caprover Apps" width="500" height="600">
