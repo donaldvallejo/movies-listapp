@@ -53,4 +53,5 @@ i have both front and backend apps seaparated in caprovers deployment
 <br>
 <br>
 The dns is waiting for my deployment
+<br>
 <img src="readmeImages/deployed.png" alt="Caprover Apps" width="500" height="600">
