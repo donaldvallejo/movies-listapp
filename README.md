@@ -42,3 +42,15 @@ To run docker compose:
 from the parent folder run:
 <br>
 docker-compose up
+<br>
+<br>
+<br>
+Where im stuck:
+<br>
+i have both front and backend apps seaparated in caprovers deployment
+<br>
+<img src="" alt="Caprover Apps" width="500" height="600">
+<br>
+<br>
+The dns is waiting for my deployment
+<img src="" alt="Caprover Apps" width="500" height="600">
